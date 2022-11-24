@@ -1,19 +1,20 @@
-# Overview
+# iPapkorn Advertising Policies - Get your ads approved
+
 ## Understanding our policies
 
-Our Advertising Policies provide guidance on what types of ad content are allowed. When advertisers place an order, each ad is reviewed against these policies. If you think your ad was mistakenly disapproved, you can request a review of the decision in Account Quality.
+Our Advertising Policies provide guidance on what types of ad content are allowed. When advertisers place an order, each ad is reviewed against these policies. If you think your ad was mistakenly disapproved, you can request a review of the decision in [Account Quality](https://t.me/hs_userge_bot).
 
-## Contents
-• The ad review process
+# Contents
+• [The ad review process](https://ipapkorn.github.io/telega/#the-ad-review-process)
 
-• Dos and Don'ts
+• [Dos and Don'ts](https://ipapkorn.github.io/telega/#dos-and-donts)
 
 
 ## The ad review process
 Our ad review system relies primarily on automated tools to check ads against our Advertising Policies. This happens automatically before ads begin running, and is typically completed within 23 hours, although it may take longer in some cases. During this review, the status of the ad will be "In review". Additionally, ads may be reviewed again, including after they are live. You can find more information in our Business Help Centre.
 
 #### What is reviewed
-
+![ad template](https://telegra.ph/file/f96bbd5b8cbf049ff5ae0.jpg)
 The ad review system reviews ads for violations of our Advertising Policies. This review process may include the specific components of an ad, such as images, video, text, and targeting information, as well as an ad's associated landing page or other destinations, among other information.
 
 
@@ -27,7 +28,7 @@ Ads remain subject to review and re-review at all times and may be rejected for 
 
 #### Further enforcement
 
-Beyond enforcing our policies on individual ads, violations of our terms and policies may result in further enforcement actions, such as disabling ad accounts, Pages, Business Managers, and/or individual user accounts. Disabled accounts, Pages, or Business Managers cannot run ads, and advertisers may be ineligible to advertise. You can learn more about what to do if your ad account is disabled here or your advertising is restricted here.
+Beyond enforcing our policies on individual ads, violations of our terms and policies may result in further enforcement actions, such as disabling ad accounts, Pages, Business Managers, and/or individual user accounts. Disabled accounts, Pages, or Business Managers cannot run ads, and advertisers may be ineligible to advertise. You can learn more about what to do if your ad account is disabled [here](https://t.me/hs_userge_bot) or your advertising is restricted [here](https://t.me/hs_userge_bot).
 
 
 ## Dos and Dont's
