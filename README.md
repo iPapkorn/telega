@@ -40,7 +40,7 @@ This is a list of tips and advice that limits what you can and cannot do on our 
 
 3. Kindly avoid the use of numerical currency values as this can be misleading.
 
-4. Ads categorized as crypto, bets, and movies can only apply for a 3-day plan.
+4. Ads categorized as crypto, forex, stocks, bets, and movies can only apply for a 3-day plan.
 
 5. Adult content is prohibited.
 
