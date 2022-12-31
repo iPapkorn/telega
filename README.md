@@ -38,7 +38,7 @@ This is a list of tips and advice that limits what you can and cannot do on our 
 
 2. Words like "I", "my", "our", "we" and "us" should be replaced with your channel name. This would help eliminate ambiguity.
 
-3. Kindly avoid the use of numerical currency values as this can be misleading.
+3. Kindly avoid the use of numerical or non-numerical currency values, as this can be misleading.
 
 4. Ads categorized as crypto, forex, stocks, bets, and movies can only apply for a 3-day plan.
 
