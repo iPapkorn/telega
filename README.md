@@ -44,7 +44,7 @@ This is a list of tips and advice that limits what you can and cannot do on our 
 
 5. Adult content is prohibited.
 
-6. Ads must not contain praise, condemn, support, or represent individuals or groups with ties to Politics or Violence.
+6. Ads must not praise, condemn, support, or represent individuals or groups with ties to Politics or Violence.
 
 7. Collection of user personal information is prohibited.
 
