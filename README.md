@@ -34,7 +34,8 @@ Beyond enforcing our policies on individual ads, violations of our terms and pol
 ## Dos and Dont's
 This is a list of tips and advice that limits what you can and cannot do on our platform.
 
-1. Your ad should be as short as possible, this will make it easier for users to read and understand your message.
+1. Your ad should be as concise as possible, this will make it easier for users to read and understand your message. 
+*PS: Using more images or words doesn't guarantee better performance, as it often ends up looking like spam.*
 
 2. Words like "I", "my", "our", "we" and "us" should be replaced with your channel name. This would help eliminate ambiguity.
 
