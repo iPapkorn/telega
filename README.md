@@ -28,7 +28,7 @@ Ads remain subject to review and re-review at all times and may be rejected for 
 
 #### Further enforcement
 
-Beyond enforcing our policies on individual ads, violations of our terms and policies may result in further enforcement actions, such as disabling ad accounts, Pages, Business Managers, and/or individual user accounts. Disabled accounts, Pages, or Business Managers cannot run ads, and advertisers may be ineligible to advertise. You can learn more about what to do if your ad account is disabled [here](https://t.me/hs_userge_bot) or your advertising is restricted [here](https://t.me/hs_userge_bot).
+Beyond enforcing our policies on individual ads, violations of our terms and policies may result in further enforcement actions, such as disabling ad accounts, Pages, Business Managers, and/or individual user accounts. Disabled accounts, Pages, or Business Managers cannot run ads, and advertisers may be ineligible to advertise. You can learn more about what to do if your ad account is disabled [here](mailto:ipapkorn@gmail.com) or your advertising is restricted [here](mailto:ipapkorn@gmail.com).
 
 
 ## Dos and Dont's
