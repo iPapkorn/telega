@@ -2,7 +2,7 @@
 
 ## Understanding our policies
 
-Our Advertising Policies provide guidance on what types of ad content are allowed. When advertisers place an order, each ad is reviewed against these policies. If you think your ad was mistakenly disapproved, you can request a review of the decision in [Account Quality](https://t.me/hs_userge_bot).
+Our Advertising Policies provide guidance on what types of ad content are allowed. When advertisers place an order, each ad is reviewed against these policies. If you think your ad was mistakenly disapproved, you can request a review of the decision in [Account Quality](mailto:ipapkorn@gmail.com).
 
 # Contents
 • [The ad review process](https://ipapkorn.github.io/telega/#the-ad-review-process)
